@@ -35,6 +35,6 @@
 
 .registration-form span {
   display: block;
-  margin-top: 0.5rem;
-  color: yellow;
+  color: red;
+  font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
 }
